@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Expense Tracker
 
 A simple full-stack web app to track daily expenses and manage personal finances.
@@ -30,3 +31,6 @@ A simple full-stack web app to track daily expenses and manage personal finances
 cd backend
 pip install -r requirements.txt
 python app.py
+=======
+# Expense-Tracker
+>>>>>>> 4a70f3c1a46ff94dd8ca2e576d19c5c01c43567e
