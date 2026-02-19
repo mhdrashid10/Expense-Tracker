@@ -8,7 +8,7 @@ It demonstrates full-stack development skills including REST API design, databas
 
 ## Tech Stack
 
-Frontend
+- Frontend
 
 React with TypeScript
 
@@ -16,7 +16,7 @@ Axios for API calls
 
 Basic CSS styling
 
-Backend
+- Backend
 
 Python Flask
 
@@ -44,22 +44,6 @@ RESTful API integration
 
 Clean and responsive UI
 
-## Project Structure
-
-Expense-Tracker/
-│
-├── backend/
-│   ├── app.py
-│   ├── expenses.db
-│   └── requirements.txt
-│
-├── frontend/
-│   └── client/
-│       ├── src/
-│       ├── package.json
-│       └── ...
-│
-└── README.md
 
 ## AI Usage
 
